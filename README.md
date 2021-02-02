@@ -1,6 +1,6 @@
 # Jon Peck
 
-Hi, I'm a senior software engineer, manager and mentoring educator with on-site and remote team experience.
+Hi, I'm a senior software architect, manager and mentoring educator with on-site and remote team experience.
 
 I specialize in high performance site and application architecture, optimization, deployment and troubleshooting.
 

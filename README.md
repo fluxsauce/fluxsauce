@@ -1,11 +1,10 @@
 # Jon Peck
 
-Hi, I'm a senior software architect, manager and mentoring educator with on-site and remote team experience.
-
-I specialize in high performance site and application architecture, optimization, deployment and troubleshooting.
+Hi, I'm a director of software engineering and educator specializing in internet media publishing.
 
 - :shipit: Currently working in Node.js and JavaScript; previously PHP and Java
-- :school: Authored many courses on LinkedIn Learning, including [Node.js: Testing and Code Quality](https://www.linkedin.com/learning/node-js-testing-and-code-quality)
-- 💬 Ask me about open-source software and communities, electronic music composition
+- :school: Authored many software engineering courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-peck)
+- 🎵 I compose electronic music for video games and other visual mediums as [Null Confluence](https://null.band/)
+- 💬 Ask me about open-source software and bicycling
 - 📫 [LinkedIn](https://www.linkedin.com/in/jonpeck/), [fluxsauce.com](https://www.fluxsauce.com/)
 - 😄 Pronouns: he/him

@@ -1,6 +1,6 @@
 # Jon Peck
 
-Hi, I'm a director of software engineering and educator specializing in internet media publishing.
+Hi, I'm a senior director of software engineering and educator specializing in internet media publishing.
 
 - :shipit: Currently working in Node.js and JavaScript; previously PHP and Java
 - :school: Authored many software engineering courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-peck)

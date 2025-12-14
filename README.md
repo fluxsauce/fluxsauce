@@ -1,9 +1,1 @@
-# Jon Peck
-
-Hi, I'm a senior director of software engineering and educator specializing in internet media publishing.
-
-- :shipit: Currently working in Node.js and JavaScript; previously PHP and Java
-- :school: Authored many software engineering courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-peck)
-- 🎵 I compose electronic music for video games and other visual mediums as [Null Confluence](https://null.band/)
-- 💬 Ask me about open-source software and bicycling
-- 📫 [LinkedIn](https://www.linkedin.com/in/jonpeck/), [fluxsauce.com](https://fluxsauce.com/)
+Hiya, I'm Jon Peck. I'm a software engineer, author, mentor, educator, and musician. I used to specialize in enterprise media publishing and electronic commerce websites. I make video games now.
